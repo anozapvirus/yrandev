@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.811fd958.chunk.css",
+    "main.js": "/static/js/main.d9e46b00.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.a7e9a5b0.js",
+    "static/css/2.ef1e88a9.chunk.css": "/static/css/2.ef1e88a9.chunk.css",
+    "static/js/2.e0076926.chunk.js": "/static/js/2.e0076926.chunk.js",
+    "static/js/3.14200bff.chunk.js": "/static/js/3.14200bff.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.5ddf90e180dd6d89d9338accb46c0115.js": "/precache-manifest.5ddf90e180dd6d89d9338accb46c0115.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.e0076926.chunk.js.LICENSE.txt": "/static/js/2.e0076926.chunk.js.LICENSE.txt",
+    "static/js/3.14200bff.chunk.js.LICENSE.txt": "/static/js/3.14200bff.chunk.js.LICENSE.txt",
+    "static/media/chat_notify.mp3": "/static/media/chat_notify.2529c259.mp3",
+    "static/media/n8n.png": "/static/media/n8n.5c788b8d.png",
+    "static/media/planilha.xlsx": "/static/media/planilha.549edeba.xlsx",
+    "static/media/sound.mp3": "/static/media/sound.9fd5812c.mp3",
+    "static/media/wa-background-dark.jpg": "/static/media/wa-background-dark.2c2b95e0.jpg",
+    "static/media/wa-background-dark.png": "/static/media/wa-background-dark.8244f042.png",
+    "static/media/wa-background-light.png": "/static/media/wa-background-light.adbccee0.png",
+    "static/media/wa-background.png": "/static/media/wa-background.2675a051.png",
+    "static/media/webhook.png": "/static/media/webhook.e5374d73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e9a5b0.js",
+    "static/css/2.ef1e88a9.chunk.css",
+    "static/js/2.e0076926.chunk.js",
+    "static/css/main.811fd958.chunk.css",
+    "static/js/main.d9e46b00.chunk.js"
+  ]
+}
